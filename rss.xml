@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Hiç Arts]]></title>
         <description><![CDATA[Hiç Arts]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hic-arts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 23:58:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 00:00:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hic-arts/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The Beginning: Hiç Arts</p>]]></description>
-            <link>undefinedi-have-always-been-intrigued-and-in-love-with-islamic-art-w/index.html</link>
+            <link>https://thegrid.ai/hic-arts/i-have-always-been-intrigued-and-in-love-with-islamic-art-w/index.html</link>
             <guid isPermaLink="false">217637a7-2bfa-4262-af45-866eda3ff234</guid>
-            <pubDate>Tue, 15 Mar 2016 23:58:27 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2016 00:00:49 GMT</pubDate>
         </item>
     </channel>
 </rss>

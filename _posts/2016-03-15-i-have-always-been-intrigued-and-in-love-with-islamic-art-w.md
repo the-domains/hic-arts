@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'I have always been intrigued and in love with Islamic art, whether it was the geometric shapes with their repetition, angles'
-datePublished: '2016-03-15T23:58:27.514Z'
-dateModified: '2016-03-15T23:58:12.803Z'
+description: "The Beginning:\_Hiç Arts"
+datePublished: '2016-03-16T00:00:49.472Z'
+dateModified: '2016-03-15T23:58:29.814Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-15-i-have-always-been-intrigued-and-in-love-with-islamic-art-w.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-15-i-have-always-been-intrigued-and-in-love-with-islamic-art-w.md
-published: true
 url: i-have-always-been-intrigued-and-in-love-with-islamic-art-w/index.html
 _type: Article
 
